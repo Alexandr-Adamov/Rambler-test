@@ -5,7 +5,7 @@ import PostContainer from './PostsContainer';
 function App() {
   return (
     <div className="App">
-      <PostContainer/>
+      <PostContainer />
     </div>
   );
 }

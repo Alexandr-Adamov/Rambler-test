@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//github.com/Alexandr-Adamov/Rambler-test/static/css/main.ab4b87e7.chunk.css",
+    "main.js": "//github.com/Alexandr-Adamov/Rambler-test/static/js/main.1443bca8.chunk.js",
+    "main.js.map": "//github.com/Alexandr-Adamov/Rambler-test/static/js/main.1443bca8.chunk.js.map",
+    "runtime-main.js": "//github.com/Alexandr-Adamov/Rambler-test/static/js/runtime-main.9bc7b833.js",
+    "runtime-main.js.map": "//github.com/Alexandr-Adamov/Rambler-test/static/js/runtime-main.9bc7b833.js.map",
+    "static/js/2.0f120c71.chunk.js": "//github.com/Alexandr-Adamov/Rambler-test/static/js/2.0f120c71.chunk.js",
+    "static/js/2.0f120c71.chunk.js.map": "//github.com/Alexandr-Adamov/Rambler-test/static/js/2.0f120c71.chunk.js.map",
+    "index.html": "//github.com/Alexandr-Adamov/Rambler-test/index.html",
+    "precache-manifest.b26d9081264ff03aecebf15714a2dd0e.js": "//github.com/Alexandr-Adamov/Rambler-test/precache-manifest.b26d9081264ff03aecebf15714a2dd0e.js",
+    "service-worker.js": "//github.com/Alexandr-Adamov/Rambler-test/service-worker.js",
+    "static/css/main.ab4b87e7.chunk.css.map": "//github.com/Alexandr-Adamov/Rambler-test/static/css/main.ab4b87e7.chunk.css.map",
+    "static/js/2.0f120c71.chunk.js.LICENSE.txt": "//github.com/Alexandr-Adamov/Rambler-test/static/js/2.0f120c71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bc7b833.js",
+    "static/js/2.0f120c71.chunk.js",
+    "static/css/main.ab4b87e7.chunk.css",
+    "static/js/main.1443bca8.chunk.js"
+  ]
+}

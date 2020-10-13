@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Rambler-test/static/css/main.0098fe8a.chunk.css",
-    "main.js": "/Rambler-test/static/js/main.a6f44bc9.chunk.js",
-    "main.js.map": "/Rambler-test/static/js/main.a6f44bc9.chunk.js.map",
-    "runtime-main.js": "/Rambler-test/static/js/runtime-main.d0936609.js",
-    "runtime-main.js.map": "/Rambler-test/static/js/runtime-main.d0936609.js.map",
-    "static/js/2.c4b16168.chunk.js": "/Rambler-test/static/js/2.c4b16168.chunk.js",
-    "static/js/2.c4b16168.chunk.js.map": "/Rambler-test/static/js/2.c4b16168.chunk.js.map",
+    "main.css": "/Rambler-test/static/css/main.df19d2a7.chunk.css",
+    "main.js": "/Rambler-test/static/js/main.620fbe88.chunk.js",
+    "main.js.map": "/Rambler-test/static/js/main.620fbe88.chunk.js.map",
+    "runtime-main.js": "/Rambler-test/static/js/runtime-main.7f794db5.js",
+    "runtime-main.js.map": "/Rambler-test/static/js/runtime-main.7f794db5.js.map",
+    "static/js/2.e23f045c.chunk.js": "/Rambler-test/static/js/2.e23f045c.chunk.js",
+    "static/js/2.e23f045c.chunk.js.map": "/Rambler-test/static/js/2.e23f045c.chunk.js.map",
     "index.html": "/Rambler-test/index.html",
-    "precache-manifest.5550cd7a9090465afd6cefb0d7eda3b6.js": "/Rambler-test/precache-manifest.5550cd7a9090465afd6cefb0d7eda3b6.js",
+    "precache-manifest.d64683ec5bc32b8d9bf87db1abfb5f57.js": "/Rambler-test/precache-manifest.d64683ec5bc32b8d9bf87db1abfb5f57.js",
     "service-worker.js": "/Rambler-test/service-worker.js",
-    "static/css/main.0098fe8a.chunk.css.map": "/Rambler-test/static/css/main.0098fe8a.chunk.css.map",
-    "static/js/2.c4b16168.chunk.js.LICENSE.txt": "/Rambler-test/static/js/2.c4b16168.chunk.js.LICENSE.txt",
+    "static/css/main.df19d2a7.chunk.css.map": "/Rambler-test/static/css/main.df19d2a7.chunk.css.map",
+    "static/js/2.e23f045c.chunk.js.LICENSE.txt": "/Rambler-test/static/js/2.e23f045c.chunk.js.LICENSE.txt",
     "static/media/love-or-like-heart-sketched-outlined-symbol.png": "/Rambler-test/static/media/love-or-like-heart-sketched-outlined-symbol.1c2ba08d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0936609.js",
-    "static/js/2.c4b16168.chunk.js",
-    "static/css/main.0098fe8a.chunk.css",
-    "static/js/main.a6f44bc9.chunk.js"
+    "static/js/runtime-main.7f794db5.js",
+    "static/js/2.e23f045c.chunk.js",
+    "static/css/main.df19d2a7.chunk.css",
+    "static/js/main.620fbe88.chunk.js"
   ]
 }
